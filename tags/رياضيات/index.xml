@@ -6,21 +6,15 @@
     <description>Recent content in رياضيات on اسطرلاب</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://asturlab.github.io/tags/%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>رياضيات سنة 2017-2018</title>
-      <link>https://asturlab.github.io/posts/math-9th-grad-2017-2018/</link>
+      <title>تجرببة للرياضيات بالعربي</title>
+      <link>https://asturlab.github.io/posts/math/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asturlab.github.io/posts/math-9th-grad-2017-2018/</guid>
-      <description>حجم الهرم = 13\frac{1}{3} حجم المنشور المشترك معه في القاعدة والإرتفاع  صح خطأ  هرم رباعي قاعدته على شكل مربع طول ضلعه 12 سم، الإرتفاع الجانبي للهرم 10 سم فإن المساحة الجانبية للهرم = 240 سم-20  صح خطأ  في المنحنى الذي معادلته ص=س2−2س−3ص=س^2-2س-3 فإن القيمة الصغرى لـ ص = -3  صح خطأ  إذا كانت النقطة (1،3)، حلا للمعادلتين س+2ص=7،2أس−ص=1س+2ص=7\quad،\quad2أس-ص=1 فإن أ = 2  صح خطأ  المنوال هو القيمة الأقل تكرارا بين القيم  صح خطأ  إذا كان سص=6،س+ص=5سص=6\quad،\quadس+ص=5 فإن القيمة العددية للمقدار س2ص+سص2−سص=30س^2ص+سص^2-سص=30 = 30  صح خطأ  متوسط القيم 1، 2، 3،.</description>
-    </item>
-    
-    <item>
-      <title>رياضيات سنة 2018-2019</title>
-      <link>https://asturlab.github.io/posts/math-9th-2018-2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://asturlab.github.io/posts/math-9th-2018-2019/</guid>
-      <description>المستقيمان: س+12ص=1س+\frac{1}{2}ص=1، 2س+ص=22س+ص=2 متوازيان  صح خطأ   1212%\frac{1}{2}12% من 60 دينارا تساوي 127\frac{1}{2}7 دنانير  صح خطأ  النقطة (1−أ,−3)(1-أ,-3) تقع في الربع الثالث إذا كان أ&amp;gt;1أ&amp;gt;1  صح خطأ  الجدول التالي يبين درجات 30 تلميذا في أحد الاختبارات فإن المنوال لهذه الدرجات = 9    الدرجة 0 1 2 3 4 5 المجموع   التكرار 3 5 7 9 4 2 30     صح خطأ  الحد النوني للمتاتبعة 4 ، 7 ، 10 ، .</description>
+      <guid>https://asturlab.github.io/posts/math/</guid>
+      <description>this is an inline circle what do you think \(x + \frac{a}{b}y = 2 \), \( 2x + y = 2 \)
+\(\%12 \)\(\frac{1}{2} \)
+ \((1-x), (-3) \)
+\(x  1 \)</description>
     </item>
     
   </channel>
